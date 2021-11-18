@@ -37,7 +37,7 @@ for ruunig the code it checks for the available code and run it in the compiler 
 
 ## When:
 
-* During the ltts step-In training, this is the final project assessment and development started on 6th of april.
+* During the ltts step-In training, this is the Mini project assessment and development started on 16th of November, 2021.
 
 ## Where:
 
