@@ -8,7 +8,7 @@ PROJECT_NAME           = "My Project"
 PROJECT_NUMBER         =
 PROJECT_BRIEF          =
 PROJECT_LOGO           =
-OUTPUT_DIRECTORY       = C:\Users\Deba\Desktop\LTTS-MiniProject\e-book\3_Implementation\doc
+OUTPUT_DIRECTORY       = C:\Users\HP\Desktop\Typing Tutor\3_Implementation\doc
 CREATE_SUBDIRS         = NO
 ALLOW_UNICODE_NAMES    = NO
 OUTPUT_LANGUAGE        = English
@@ -118,7 +118,7 @@ WARN_LOGFILE           =
 #---------------------------------------------------------------------------
 # Configuration options related to the input files
 #---------------------------------------------------------------------------
-INPUT                  = C:\Users\Deba\Desktop\LTTS-MiniProject\e-book\3_Implementation\inc
+INPUT                  = C:\Users\HP\Desktop\Typing Tutor\3_Implementation\inc
 INPUT_ENCODING         = UTF-8
 FILE_PATTERNS          = *.c \
                          *.cc \
