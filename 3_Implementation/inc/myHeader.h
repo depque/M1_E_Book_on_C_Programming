@@ -1,9 +1,9 @@
 /**
  * @file myHeader.h
- * @author Debashish Dash (E book on C@domain.com)
+ * @author Deepak Sharma(E book on C@domain.com)
  * @brief this header file contains all the functions tha are used in the men method of the main c file
  * @version 0.1
- * @date 2021-04-14
+ * @date 2021-11-16
  * 
  * @copyright Copyright (c) 2021
  * 
