@@ -12,14 +12,14 @@
 ## Cost and Features
 * This project has various features, like it can provide contents on c programming concepts to the user. 
 * User can also run the given sample codes and try it by themslef. which is a big plus point for this project.
-* users have option also option to give their valuable suggestions in or platform. 
+* Users have option also option to give their valuable suggestions in or platform. 
 #### above features are shown in the below screenshot. 
 <img src="https://github.com/depque/Typing-Tutor/blob/master/1_Requirements/index.png" width="1080" height="720">
 
 ## Defining Our System
-* System bacically takes input from the user and checks for the file, and then it prints the file.
+* System basically takes input from the user and checks for the file, and then it prints the file.
 for ruunig the code it checks for the available code and run it in the compiler i.e GCC and prints the output
-* for the suggestion part it takes suggestion from user and stores it in a file.
+* For the suggestion part it takes suggestion from user and stores it in a file.
 <img src="https://github.com/depque/Typing-Tutor/blob/master/1_Requirements/system%20definition.png" width="780" height="520">
 
 ## SWOT ANALYSIS
@@ -45,7 +45,7 @@ for ruunig the code it checks for the available code and run it in the compiler 
 
 ## How:
 
-* users can use this code to enhance their c knowledge.
+* Users can use this code to enhance their c knowledge.
 
 # Detail requirements
 ## High Level Requirements:
@@ -54,10 +54,10 @@ for ruunig the code it checks for the available code and run it in the compiler 
 |:---:|:---:|:---:|
 |HLR-1| User shall be able to move to cover page and index page. |Implemented|
 |HLR-2| System output must display the contents of the file. |Implemented|
-|HLR-3| user shall be able to execute the sample codes. |Implemented|
-|HLR-4| user shall be able to give suggestion. |Implemented|
-|HLR-5| user shall be able to write their own code and execute. |Future|
-|HLR-6| user shall be able to access a learning leader board. |Future|
+|HLR-3| User shall be able to execute the sample codes. |Implemented|
+|HLR-4| User shall be able to give suggestion. |Implemented|
+|HLR-5| User shall be able to write their own code and execute. |Future|
+|HLR-6| User shall be able to access a learning leader board. |Future|
 
 
 ##  Low level Requirements:

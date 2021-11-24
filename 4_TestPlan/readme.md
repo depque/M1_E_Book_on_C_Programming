@@ -13,7 +13,7 @@
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       | is the user able to get into the contents | 1-9 | respective topic | respective topic|Requirement based |
+|  L_01       | Is the user able to get into the contents | 1-9 | Respective topic | Respective topic|Requirement based |
 
 ## Screen shots
 ---------------------
