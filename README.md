@@ -27,9 +27,9 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 ## Challenges Faced and How Was It Overcome
 
 1. During cpp-check, online resources helped a lot. 
-2. as most of the functions used contains othes function calls in them and required user input so unit test couldnt properly done in most of the functions.
-3. while running the multiple files. Make file helped a lot to resolve this.
-4. over all stack overflow helped a lot in resolving issues during this project.
+2. As most of the functions used contains others function calls in them and required user input so unit test could not properly done in most of the functions.
+3. While running the multiple files, Make file helped a lot to resolve this.
+4. Over all stack overflow helped a lot in resolving issues during this project.
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
